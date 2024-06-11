@@ -1,0 +1,17 @@
+[Script Info]
+Title: VN Media by Mkendo
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+Original Editing: mkendo
+PlayResX: 0
+PlayResY: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Right_corner,Arial,6,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,9,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Text
+Dialogue: 1,0:00:00.00,00:00:01.01,Right_corner,,0,0,0, VNMEDIA
