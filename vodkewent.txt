@@ -311,8 +311,6 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png",An Giang 93.1 MHz
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
-#EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg",Bắc Ninh
-https://1253668792.e.cdneverest.net/SU9hThnS1ca_HEx76uri5A/1756235004/live/28584e20827396945f5a4fd57fadd4be21a/playlist.m3u8
 #EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg",Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/Logo_Hau_Giang_Radio.png/revision/latest?cb=20250605142623&path-prefix=vi",Cần Thơ
