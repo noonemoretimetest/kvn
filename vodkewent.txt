@@ -203,6 +203,8 @@ https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/07/22/icon_channel_lam-dong-2_175316683432.jpg",Lâm Đồng 2
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="lamdong3" group-title="Địa phương" tvg-logo="https://image4.vnmedia.xyz/logo/lamdong3.jpg",Lâm Đồng 3
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lang-son_165658527667.png",Lạng Sơn
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20231213/1dcdb882-21c3-4cdf-b533-2a40559b383c.jpg",Lào Cai
