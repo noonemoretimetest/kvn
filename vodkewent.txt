@@ -327,6 +327,10 @@ https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
 https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg",Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphong937" group-title="Radio" tvg-logo="https://media.thhp.vn/upload/channel/feff5d00406bf2abdfaf859c3a5e456e.jpg",Hải Phòng 93.7
+https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphong1022" group-title="Radio" tvg-logo="https://media.thhp.vn/upload/channel/d0c9c81c9bd9aabd8dd9b266c37730aa.jpg",Hải Phòng 102.2
+https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/poster.gif",Hưng Yên
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoaradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/Logo_KTV_Kh%C3%A1nh_H%C3%B2a_FM_106%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250521054119&path-prefix=vi",Khánh Hòa
