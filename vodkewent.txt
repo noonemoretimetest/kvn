@@ -125,6 +125,12 @@ https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://image3.vnmedia.xyz/logo/sctv18hd.png",SCTV18
 https://liveh34.vtvprime.vn/hls/SCTV18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://image3.vnmedia.xyz/logo/sctv19hd.png",SCTV19
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://image3.vnmedia.xyz/logo/sctv20hd.png",SCTV20
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://image2.vnmedia.xyz/logo/sctv21hd.jpg",SCTV21
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://image2.vnmedia.xyz/logo/sctvhdpth.png",SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://image4.vnmedia.xyz/logo/sctv4k.jpg",SCTV4K 
