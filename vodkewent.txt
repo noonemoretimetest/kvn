@@ -286,13 +286,13 @@ https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5 Người Việt ở nước ngoài
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông HN
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông HCM
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông Mekong
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông Duyên hải
-https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png",VOV Tiếng Anh 24/7
 https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/04/21/1741100167336/f3e6790b51c7_480_270.png",Hà Nội FM90 Giao thông
