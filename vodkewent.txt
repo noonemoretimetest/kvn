@@ -271,10 +271,6 @@ https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Khác" tvg-id="anvienhd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_btv9_165655638408.png",An Viên
 #EXTINF:-1 group-title="Khác" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Khác" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png",Mê Kông
-https://freem3u.xyz/api/live/play.m3u8?vid=9902
-#EXTINF:-1 group-title="Khác" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
-https://freem3u.xyz/api/live/play.m3u8?vid=9903
 #EXTINF:-1 group-title="Khác" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png",KuboLive
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="Khác" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png",KuboCast
