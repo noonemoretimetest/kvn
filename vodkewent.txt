@@ -275,6 +275,16 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m
 https://freem3u.xyz/api/live/play.m3u8?vid=9902
 #EXTINF:-1 group-title="Khác" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
 https://freem3u.xyz/api/live/play.m3u8?vid=9903
+#EXTINF:-1 group-title="Khác" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png",KuboLive
+http://live.qphim.xyz/live/kubolive/index.m3u8
+#EXTINF:-1 group-title="Khác" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png",KuboCast
+http://live.qphim.xyz/live/kubocast/index.m3u8
+#EXTINF:-1 group-title="Khác" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino1
+http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
+#EXTINF:-1 group-title="Khác" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg",Nino2
+http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
+#EXTINF:-1 group-title="Khác" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
+https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 Thời sự
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 Văn hóa - Xã hội và Dân tộc
