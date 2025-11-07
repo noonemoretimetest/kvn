@@ -130,7 +130,7 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/07/29/icon_channel_an-giang_175372455025.jpg",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",An Giang 3
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/07/14/bac-ninh_1752460891250.jpg",Bắc Ninh
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
