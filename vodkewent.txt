@@ -281,8 +281,8 @@ http://live.qphim.xyz/live/kubocast/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 #EXTINF:-1 group-title="Khác" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg",Nino2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 group-title="Khác" tvg-logo="https://p3-sg.tiktokcdn.com/obj/tiktok-obj/8b2f8e332dbe440e30c8ed5697e08aa8",Người nhện không còn nhà
-https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream
+#EXTINF:-1 group-title="Khác" tvg-logo="https://p3-sg.tiktokcdn.com/obj/tiktok-obj/8b2f8e332dbe440e30c8ed5697e08aa8",Event Test
+http://phuocphap.ahiep.name.vn/phuocphap/KODI/F/proxy-m3u8.php?u=https://embed13.streamc.xyz/eyJoIjoiNTI1YjZkNWU4ZmU3ODM5OTA2NjI4NGU0MzM2YzFiMWUiLCJ0IjoiYzgxYzQwOTU1YjQ4YTMxMDExM2Y1YTcyNDZjMDJmY2YwZGJhYTI1N2NjN2JjNTgzOTljM2M3NTc4OGE3ZTZjNCJ9.m3u8&referer=https://embed13.streamc.xyz/
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 Thời sự
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 Văn hóa - Xã hội và Dân tộc
