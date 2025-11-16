@@ -281,8 +281,8 @@ http://live.qphim.xyz/live/kubocast/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 #EXTINF:-1 group-title="Khác" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg",Nino2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 group-title="Khác" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
-https://cdn.idoyu.com/?id=13112025_playlist_f7fca19a-e907-4963-8069-48448ed7c8d4&s_type=icdn
+#EXTINF:-1 group-title="Khác" tvg-logo="https://p3-sg.tiktokcdn.com/obj/tiktok-obj/8b2f8e332dbe440e30c8ed5697e08aa8",Người nhện không còn nhà
+https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 Thời sự
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 Văn hóa - Xã hội và Dân tộc
