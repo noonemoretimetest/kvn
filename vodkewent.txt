@@ -313,7 +313,7 @@ https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="voh877" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png",TP Hồ Chí Minh VOH4 FM 87.7MHz Kinh tế
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://voh.com.vn/images/Logo-VOH.jpg",TP Hồ Chí Minh VOH5 FM 92-92.5MHz Văn hóa Mê Kông
+#EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://voh.com.vn/images/thumb_no_imgr.jpg",TP Hồ Chí Minh VOH5 FM 92-92.5MHz Văn hóa Mê Kông
 https://strm.voh.com.vn/radio/channel6/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiangradio1" group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png",An Giang 99.4 MHz
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
