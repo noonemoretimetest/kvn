@@ -5,15 +5,11 @@ export default async function handler(req, res) {
             return res.status(400).send("Missing p");
         }
 
-        // Decode Base64
         const decoded = Buffer.from(encoded, "base64").toString("utf8");
-
-        // Tách bằng '|'
         const parts = decoded.split("|");
         const u = parts[0];
         const ref = parts[1] || u;
 
-        // Fetch M3U8 gốc
         const response = await fetch(u, {
             headers: {
                 "Referer": ref,
@@ -38,15 +34,13 @@ export default async function handler(req, res) {
                 const bencode = encodeURIComponent(
                     Buffer.from(`${trim}|${ref}`).toString("base64")
                 );
-
-                // Thay bằng proxy của bạn
                 line = `https://phuocphap.ahiep.name.vn/phuocphap/KODI/F/ts.php?b=${bencode}`;
             }
 
             output += line + "\n";
         }
 
-        res.setHeader("Content-Type", "application/x-mpegurl");
+        res.setHeader("Content-Type", "text/plain; charset=utf-8");
         return res.status(200).send(output);
 
     } catch (err) {
