@@ -40,7 +40,7 @@ export default async function handler(req, res) {
             output += line + "\n";
         }
 
-        res.setHeader("Content-Type", "text/plain; charset=utf-8");
+        res.setHeader("Content-Type", "application/x-mpegurl");
         return res.status(200).send(output);
 
     } catch (err) {
