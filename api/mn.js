@@ -43,17 +43,9 @@ export default async function handler(req, res) {
 
         // --- HEADERS ---
         res.setHeader("Content-Type", "text/plain; charset=utf-8");
-        res.setHeader("Cache-Control", "max-age=300");
-        res.setHeader("Content-Security-Policy", "default-src 'none'; style-src 'unsafe-inline'; sandbox");
-        res.setHeader("Strict-Transport-Security", "max-age=31536000");
-        res.setHeader("X-Content-Type-Options", "nosniff");
-        res.setHeader("X-Frame-Options", "deny");
-        res.setHeader("X-XSS-Protection", "1; mode=block");
         res.setHeader("Access-Control-Allow-Origin", "*");
         res.setHeader("Content-Encoding", "gzip");
         res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
-        res.setHeader("Expires", new Date(Date.now() + 300000).toUTCString()); // +5 phút
-        res.setHeader("Content-Length", Buffer.byteLength(output, "utf8"));
         res.status(200).send(output);
 
     } catch (err) {
