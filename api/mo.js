@@ -44,7 +44,6 @@ export default async function handler(req, res) {
 
         res.setHeader("Content-Type", "text/plain; charset=utf-8");
         res.setHeader("Access-Control-Allow-Origin", "*");
-        res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
         res.setHeader("Content-Encoding", "gzip");
         return res.status(200).send(output);
 
