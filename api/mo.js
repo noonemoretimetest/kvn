@@ -36,17 +36,17 @@ export default async function handler(req, res) {
                 const bencode = encodeURIComponent(
                     Buffer.from(`${trim}|${ref}`).toString("base64")
                 );
+                // Không cần thêm .m3u8 nữa, vì client đã truyền p=xxx.m3u8
                 line = `https://phuocphap.ahiep.name.vn/phuocphap/KODI/F/ts.php?b=${bencode}`;
             }
             output += line + "\n";
         }
 
-        // --- HEADERS ---
         res.setHeader("Content-Type", "text/plain; charset=utf-8");
         res.setHeader("Access-Control-Allow-Origin", "*");
-        res.setHeader("Content-Encoding", "gzip");
         res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
-        res.status(200).send(output);
+        res.setHeader("Content-Encoding", "gzip");
+        return res.status(200).send(output);
 
     } catch (err) {
         return res.status(500).send("Server error: " + err.message);
